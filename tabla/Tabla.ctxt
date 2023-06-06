@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tabla
+comment1.params=
+comment1.target=Tabla()
+comment2.params=evt
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=table\ widths
+comment3.target=void\ setColumnWidths(javax.swing.JTable,\ int[])
+comment4.params=row
+comment4.target=productos.Teclado\ obtenerObj(int)
+comment5.params=evt
+comment5.target=java.lang.String\ tempMouseClicked(java.awt.event.MouseEvent)
+comment6.params=evt\ codeTemp
+comment6.target=void\ tablaMouseClicked(java.awt.event.MouseEvent,\ java.lang.String)
+comment7.params=jTabla
+comment7.target=void\ limpiarJTabla(javax.swing.JTable)
+comment8.params=jtTeclados
+comment8.target=void\ llenarJTabla(javax.swing.JTable)
+numComments=9

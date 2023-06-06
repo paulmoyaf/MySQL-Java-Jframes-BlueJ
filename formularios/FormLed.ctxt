@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FormLed
+comment0.text=La\ clase\ JFrame\ encapsula\ el\ concepto\ de\ una\ ventana,\ para\ implementar\ una\ aplicaci\u00F3n\ que\ muestre\ una\ ventana\ debemos\ plantear\ una\ clase\ que\ herede\ de\ la\ clase\ JFrame\ e\ implemente\ a\ a\ ActionListener\ para\ el\ evento\ del\ bot\u00F3n
+comment1.params=
+comment1.target=FormLed()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=M\u00E9todo\ que\ implementa\ la\ acci\u00F3n\ del\ bot\u00F3n
+comment3.params=
+comment3.target=void\ ledON()
+comment4.params=
+comment4.target=void\ ledOFF()
+numComments=5

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FormTabla
+comment1.params=
+comment1.target=FormTabla()
+comment10.params=jtTeclados\ var\ txt_code
+comment10.target=void\ llenarJTablaPersonalizada(javax.swing.JTable,\ java.lang.String,\ java.lang.String)
+comment11.params=tableToExport\ pathToExportTo
+comment11.target=boolean\ exportToCSV(javax.swing.JTable,\ java.lang.String)
+comment2.params=evt
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=table\ widths
+comment4.target=void\ setColumnWidths(javax.swing.JTable,\ int[])
+comment5.params=row
+comment5.target=productos.Teclado\ obtenerObj(int)
+comment6.params=evt
+comment6.target=java.lang.String\ tempMouseClicked(java.awt.event.MouseEvent)
+comment7.params=evt\ codeTemp
+comment7.target=void\ tablaMouseClicked(java.awt.event.MouseEvent,\ java.lang.String)
+comment8.params=jTabla
+comment8.target=void\ limpiarJTabla(javax.swing.JTable)
+comment9.params=jtTeclados
+comment9.target=void\ llenarJTabla(javax.swing.JTable)
+numComments=12

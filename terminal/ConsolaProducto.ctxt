@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ConsolaProducto
+comment1.params=
+comment1.target=void\ addTeclados()
+comment2.params=
+comment2.target=void\ funcionActualizar()
+comment3.params=
+comment3.target=void\ borraRegistro()
+comment4.params=
+comment4.target=void\ buscaPorID()
+comment5.params=
+comment5.target=void\ buscaCambiaActualiza()
+comment6.params=input
+comment6.target=void\ isVacio(java.lang.String)
+comment7.params=input
+comment7.target=void\ is100(java.lang.String)
+comment8.params=input
+comment8.target=void\ isMenor0(java.lang.String)
+comment9.params=arrTeclados\ key
+comment9.target=boolean\ buscaIDAutomatico(java.util.ArrayList,\ java.lang.String)
+numComments=10
